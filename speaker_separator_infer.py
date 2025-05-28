@@ -17,7 +17,7 @@ SR = 16000
 CHANNELS = 1
 BLOCK_DURATION = 0.5
 SIMILARITY_THRESHOLD = 0.95
-USER_PROFILE_PATH = "C:/Users/jyn36/Desktop/학교/캡스톤1/0016_G1A2E7_KYM_000001_join.wav"
+USER_PROFILE_PATH = "YOUR_FILE_PATH"
 PROFILE_JSON = "user_profile.json"
 TEMP_WAV = "temp_segmented.wav"
 
